@@ -194,7 +194,7 @@ section{
     justify-content: center;
     margin-right: auto;
     margin-left: auto;
-    max-width: 1200px;
+    /* max-width: 1200px; */
   
     
 }
@@ -204,6 +204,7 @@ section{
     /* max-width:100%; */
     display: block;
     width:100%;
+    height: auto;
 }
 
 
